@@ -1,0 +1,11 @@
+.videos__item {
+    width: 280px;
+    height: 303px;
+    flex-grow: 1;
+}
+
+.videos__container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+}
